@@ -2,8 +2,8 @@ h2{
     color:antiquewhite;
 }
 table,th,td{
-    border: 1px solid collapse;
+    border: 1px solid black;
 }
 th.td{
-    background-color: beige;
+    background-color: rgb(130, 198, 169);
 }
