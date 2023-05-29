@@ -4,6 +4,6 @@ h2{
 table,th,td{
     border: 1px solid black;
 }
-th.td{
+th,td{
     background-color: rgb(130, 198, 169);
 }
