@@ -2,7 +2,7 @@ h2{
     color:rgb(47, 151, 54);
 }
 table,th,td{
-    border: 3px solid black;
+    border: 2px solid black;
 }
 th,td{
     background-color: rgb(130, 198, 169);
